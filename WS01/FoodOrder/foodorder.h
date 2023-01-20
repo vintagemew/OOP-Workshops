@@ -2,6 +2,10 @@
 #define SDDS_FOODORDER_H
 
 #include <iostream>
+#include <stdexcept>
+#include <limits>
+#include <climits>
+#include <cstring>
 //#include <string>
 
 extern double g_taxrate;
